@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Zwr408/Weiran-Zhou/blob/master/IMG_0008.JPG" width="400" alt="note"/>
+<img src="https://github.com/Zwr408/Weiran-Zhou/blob/master/repository-open-graph-template%20(2).png" width="400" alt="note"/>
 
 
 
