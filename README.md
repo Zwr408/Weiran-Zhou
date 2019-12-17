@@ -1,6 +1,7 @@
 ## Welcome to my homepage!!
 
-![photo](https://github.com/Zwr408/Weiran-Zhou/blob/master/IMG_0008.JPG)
+<img src="https://github.com/Zwr408/Weiran-Zhou/blob/master/IMG_0008.JPG" width="700" alt="note"/>
+
 ## Basic Information
 Name: Weiran Zhou, Age: 19,          
 mobile phone: 86-15155900822,  
