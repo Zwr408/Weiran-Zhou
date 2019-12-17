@@ -4,7 +4,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Zwr408/Weiran-Zhou/master/IMG_20191217_161025.jpg" width="400" alt="JPG"/>
+<img src="https://github.com/Zwr408/Weiran-Zhou/blob/master/IMG_0008.JPG" width="400" alt="JPG"/>
 
 
 
